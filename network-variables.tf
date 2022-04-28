@@ -6,7 +6,7 @@
 variable "aws_az" {
   type        = string
   description = "AWS AZ"
-  default     = "eu-west-1c"
+  default     = "us-west-2"
 }
 
 # VPC Variables
