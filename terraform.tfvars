@@ -9,7 +9,7 @@ public_subnet_cidr = "10.11.1.0/24"
 # AWS Settings
 aws_access_key = "complete-this"
 aws_secret_key = "complete-this"
-aws_region     = "eu-west-1"
+aws_region     = "us-west-2"
 
 # Windows Virtual Machine
 windows_instance_name               = "kopiwinsrv01"
